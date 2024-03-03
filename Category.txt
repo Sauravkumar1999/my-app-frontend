@@ -1,0 +1,29 @@
+Category
+Gender
+Fabric
+Color
+Smartcoins
+Price
+Meesho Mall
+Occassion
+Discount
+Rating
+Size
+Combo
+Bottom Length
+Print Or Pattern Type
+Bottom Style
+Bottomwear Fabric
+Ornamentation
+Bottom Pattern Type
+Border
+Surface Styling
+Back Type
+Fit/ Shape
+Inner Fabric
+Loom Type
+Top Type
+Warranty Period
+Waist Rise
+Bottom Type
+Type
